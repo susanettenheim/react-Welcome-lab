@@ -1,5 +1,5 @@
 import React from 'react'
-import navImage from './images/Navbar.png'
+import navImage from './images/Navbar.jpg'
 import './css/Navbar.css'
 
 const Navbar = () => {

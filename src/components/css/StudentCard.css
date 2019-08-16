@@ -1,0 +1,65 @@
+.card{
+  margin-top:1rem;
+  background-color: rgb(255,255,255);
+  text-align: center;
+  border: 3px solid blue 
+}
+
+.card-header{
+  background-color: rgb(158,192,255);
+  color: black;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 10px;
+  box-shadow: 4px 4px 4px blue
+}
+
+.badge{
+  color: white;
+  padding:10px 10px;
+  margin: 0 1px;
+  font-weight: 300;
+  background-color: rgb(051,102,255)
+}
+
+.imgStudent{
+	margin-bottom: 10px;
+	width: 80%;
+	border-radius: 10px;
+	//box-shadow: 2px 2px 2px black
+}
+
+.badge-header{
+  width: 100%;
+  font-weight: 700;
+  font-size:1rem;
+  text-transform: uppercase;
+}
+
+.badge2-header{
+  width: 100%;
+  font-weight: 700;
+  font-size:1rem;
+  text-transform: uppercase;
+}
+
+.list-group{
+  margin: 5px 0px 5px 8px;
+  border-radius: 10px
+}
+
+.list-group-item{
+  background-color: rgb(051,102,255);
+  padding:5px;
+  color: black;
+  font-size: .9rem;
+  width: 100%;
+}
+
+.learn{
+  background-color: rgb(051,153,255);
+  padding:5px;
+  color: black;
+  /*font-size: .9rem;*/
+  width: 100%;
+}
